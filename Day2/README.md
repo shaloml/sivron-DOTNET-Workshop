@@ -9,15 +9,21 @@ Welcome to Day 2 of the Sivron DOTNET Workshop! This repository contains materia
 - Loading and reading configuration settings.
 - Using different configuration providers (environment variables, command-line arguments, etc.).
 
+**Exercise:** [Exercise3_ConfigurationPractice.md](./Exercise3_ConfigurationPractice.md)
+
 ### Logging and Caching in .NET Core Applications
 - Setting up logging in a .NET Core application.
 - Using different logging providers (Console, Debug, etc.).
 - Implementing caching in .NET Core.
 
+**Exercise:** [Exercise4_LoggingPractice.md](./Exercise4_LoggingPractice.md)
+
 ### Introduction to Entity Framework Core for Database Management
 - Overview of Entity Framework Core.
 - Setting up EF Core in a .NET Core application.
 - Code First approach and migrations.
+
+**Exercise:** [Exercise5_EntityFrameworkPractice.md](./Exercise5_EntityFrameworkPractice.md)
 
 ### Overview of UI Frameworks for Windows Desktop Applications
 - Introduction to WPF (Windows Presentation Foundation).
@@ -32,3 +38,4 @@ Welcome to Day 2 of the Sivron DOTNET Workshop! This repository contains materia
 - Factors to consider when choosing a UI framework.
 - Pros and cons of each framework.
 - Real-world use cases and scenarios.
+
