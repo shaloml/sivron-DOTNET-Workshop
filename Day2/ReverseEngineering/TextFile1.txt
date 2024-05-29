@@ -1,0 +1,5 @@
+﻿SQL SERVER: Scaffold-DbContext "Data Source=localhost;Initial Catalog=dddddd;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer  -OutputDir Models  -DataAnnotations -Context MaccabiPushVoipDbContext
+
+
+SQL LITE: Scaffold-DbContext "Data Source=C:\\temp\\Samurai.db" Microsoft.EntityFrameworkCore.Sqlite -OutputDir Models -Context SamuraiDbContext -Project DataAccess -StartupProject ConsoleApp
+
