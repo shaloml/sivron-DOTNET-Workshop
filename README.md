@@ -2,6 +2,8 @@
 
 Welcome to the Sivron DOTNET Workshop! This repository contains materials and exercises for our comprehensive workshop focused on migrating from .NET Framework to .NET Core for desktop development.
 
+**Presentation:** [Sivron_DOTNET_Workshop_Presentation.pdf](./Sivron_DOTNET_Workshop_Presentation.pdf)
+
 ## Course Overview
 
 ### Course: Migrating from .NET Framework to .NET Core for Desktop Development
